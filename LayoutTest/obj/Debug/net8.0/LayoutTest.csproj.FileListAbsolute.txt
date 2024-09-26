@@ -1,0 +1,60 @@
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\bin\Debug\net8.0\appsettings.json
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.staticwebassets.runtime.json
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.exe
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.deps.json
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.runtimeconfig.json
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.dll
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.pdb
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.AssemblyInfoInputs.cache
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.AssemblyInfo.cs
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.csproj.CoreCompileInputs.cache
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.RazorAssemblyInfo.cache
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.RazorAssemblyInfo.cs
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets\msbuild.LayoutTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets\msbuild.build.LayoutTest.props
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LayoutTest.props
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LayoutTest.props
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\scopedcss\bundle\LayoutTest.styles.css
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\scopedcss\projectbundle\LayoutTest.bundle.scp.css
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.dll
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\refint\LayoutTest.dll
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.pdb
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.genruntimeconfig.cache
+C:\Users\AHMED\source\repos\LayoutTest\LayoutTest\obj\Debug\net8.0\ref\LayoutTest.dll
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\bin\Debug\net8.0\appsettings.Development.json
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\bin\Debug\net8.0\appsettings.json
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.staticwebassets.runtime.json
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.exe
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.deps.json
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.runtimeconfig.json
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.dll
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\bin\Debug\net8.0\LayoutTest.pdb
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.AssemblyInfoInputs.cache
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.AssemblyInfo.cs
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.csproj.CoreCompileInputs.cache
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.RazorAssemblyInfo.cache
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.RazorAssemblyInfo.cs
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets\msbuild.LayoutTest.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets\msbuild.build.LayoutTest.props
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LayoutTest.props
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LayoutTest.props
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\scopedcss\bundle\LayoutTest.styles.css
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\scopedcss\projectbundle\LayoutTest.bundle.scp.css
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.dll
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\refint\LayoutTest.dll
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.pdb
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\LayoutTest.genruntimeconfig.cache
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\MVC Projects\Day two\LayoutTest\LayoutTest\obj\Debug\net8.0\ref\LayoutTest.dll
